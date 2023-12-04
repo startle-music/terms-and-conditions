@@ -1,4 +1,4 @@
-Published on 11 Nov 2022 
+Published on 3 Aug 2023
 
 ## **Terms & Conditions for the supply of Services**
 
@@ -282,7 +282,7 @@ at which point and on which date a Contract shall come into existence (**Commenc
 
 (a) within 15 days of the date of the invoice; and
 
-(b) in full and in cleared funds (including currency conversion and banking charges applicable to the payment method used) to a bank account nominated in writing by Startle or by any other means set out in each Order Form.
+(b) in full and in cleared funds (including currency conversion and banking charges applicable to the payment method used) to a bank account nominated in writing by Startle or by any other electronic means of payment made available by Startle. Startle reserves the right to apply an administrative charge of £10 for any payment received via cheque to cover the additional processing required.
 
 10.6 Notwithstanding clause 10.8, time for payment of all charges by the Customer to Startle shall be of the essence.
 
