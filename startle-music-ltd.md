@@ -1,4 +1,4 @@
-Published on 25 Mar 2022
+Published on 14 May 2022
 
 ## **Terms & Conditions for the supply of Services**
 
@@ -101,8 +101,6 @@ at which point and on which date a Contract shall come into existence (**Commenc
 2.8 Any samples, drawings, descriptive matter or advertising issued by Startle and any descriptions of the Equipment or illustrations or descriptions of the Services contained in Startle's catalogues or brochures or on Startle's website or other electronic advertising are issued or published for the sole purpose of giving an approximate idea of the Services and/or the Equipment described in them. They shall not form part of any Contract or have any contractual force.
 
 2.9 These Terms & Conditions apply to every Contract to the exclusion of any other terms that the Customer seeks to impose or incorporate, or which are implied by trade, custom, practice or course of dealing.
-
-2.10 Purchase orders are for the Customer's internal accounting and procurement purposes only and are of no legal effect between Customer and Startle. The rights and obligations of the Customer and Startle are established solely by the Contract; all other terms are rejected.
 
 ### **3. Supply of Services**
 
@@ -393,75 +391,3 @@ Subject to clause 12.4, a party (**receiving party**) shall keep in strict confi
 (f) an application is made to court, or an order is made, for the appointment of an administrator or if a notice of intention to appoint an administrator is given or if an administrator is appointed over the other party (being a company); or
 
 (g) any event occurs, or proceeding is taken, with respect to the other party in any jurisdiction to which it is subject that has an effect equivalent or similar to any of the events mentioned in clause 17.4(b) to clause 17.4(f) (inclusive);
-
-17.5 Without limiting its other rights or remedies, Startle may terminate any Contract with immediate effect by giving written notice to the Customer if the Customer's financial position deteriorates to such an extent that in Startle's opinion the Customer's capability to adequately fulfil its obligations under the Contract has been placed in jeopardy.
-
-17.6 Without limiting its other rights or remedies, Startle may terminate any or all Contracts with immediate effect by giving written notice to the Customer if the Customer fails to pay any amount due under any Contract on the due date for payment.
-
-17.7 On termination of a Contract for any reason:
-
-(a) the Customer shall immediately pay to Startle all of Startle's outstanding unpaid invoices and any applicable interest and, in respect of Services supplied but for which no invoice has yet been submitted, Startle shall submit an invoice, which shall be payable by the Customer immediately on receipt;
-
-(b) the Customer shall return all of the Rental Equipment to Startle at the Customer's expense. Until they have been returned, the Customer shall be solely responsible the safe keeping of all Rental Equipment and will not use them for any purpose not connected with the Contract under which they were provided. If the Customer fails to return the Rental Equipment to Startle within 30 days of termination of the applicable Contract, then Startle may levy a charge equivalent to the cost price for the Equipment (as reasonably determined by Startle) calculated as at the date of termination;
-
-(c) the accrued rights and remedies of the parties as at termination shall not be affected, including the right to claim damages in respect of any breach of the Contract which existed at or before the date of termination or expiry; and
-
-(d) clauses which expressly or by implication have effect after termination shall continue in full force and effect.
-
-### **18. Force Majeure**
-
-18.1 In these Terms & Conditions, **Force Majeure Event** means an event beyond the reasonable control of Startle including but not limited to strikes, lock-outs or other industrial disputes (whether involving the workforce of Startle or any other party), failure of a utility service or transport network, act of God, pandemic, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, breakdown of plant or machinery, breakdown of network service providers' servers, fire, flood, storm or default of suppliers or subcontractors.
-
-18.2 Startle shall not be liable to the Customer as a result of any delay or failure to perform its obligations under a Contract, which arises as a result of a Force Majeure Event. The Customer's obligations under each Contract shall continue in full force and effect notwithstanding the occurrence of any Force Majeure Event.
-
-18.3 If a Force Majeure Event prevents Startle from providing Services under any Contract for more than 3 months, either party may, without limiting its other rights or remedies, terminate the affected Contract immediately by giving written notice to the other party. For the avoidance of doubt, no right to terminate shall arise under this clause 18.3 in the event that a Force Majeure Event prevents the Customer from performing its obligations under any Contract or in the event that Startle is able to provide the Services but the Customer is unable to avail itself of them as a result of a Force Majeure Event.
-
-### **19. General**
-
-19.1 **Assignment and other dealings.**
-
-(a) Startle may at any time assign, transfer, mortgage, charge, subcontract or deal in any other manner with all or any of its rights under the Contract and may subcontract or delegate in any manner any or all of its obligations under the Contract to any third party.
-
-(b) The Customer shall not, without the prior written consent of Startle, assign, transfer, charge, subcontract, declare a trust over or deal in any other manner with any of its rights or obligations under the Contract.
-
-19.2 **Notices.**
-
-(a) Except in the case of Cancellation Notices (which are governed by clause 19.2.(c) to (d)), any notice or other communication given to a party under or in connection with a Contract shall be in writing, addressed to that party at its registered office (if it is a company) or its principal place of business (in any other case) or such other address as that party may have specified to the other party in writing in accordance with this clause, and shall be delivered personally or sent by prepaid first-class mail or other next working day delivery service, or by commercial courier or by email.
-
-(b) A notice or other communication shall be deemed to have been received: if delivered personally, when left at the address referred to in clause 19.1(a) if sent by pre-paid first class mail or other next working day delivery service, at 9.00 am on the second Business Day after mailing; if delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed; or, if sent by email, one Business Day after transmission (provided that the sender does not receive an email bounce back notification or any other notification that delivery of the email has failed).
-
-(c) Any Cancellation Notice given by a party shall be in writing, addressed to that party at its registered office (if it is a company) or its principal place of business (in any other case) or such other address as that party may have specified to the other party in writing in accordance with this clause, and shall be delivered by email:
-
-(i) in the case of a Cancellation Notice sent by the Customer, to cancellations@startlemusic.com or such other email address specified by Startle from time to time; and
-
-(ii) in the case of a Cancellation Notice sent by Startle, to the email address specified by the Customer at the time of entering into the Contract, or such other email address specified by the Customer from time to time.
-
-(d) A Cancellation Notice shall be deemed to have been received:
-
-(i) if sent by the Customer, when the Customer receives from Startle a confirmation by email that the Cancellation Notice has been received; and
-
-(ii) if sent by Startle, one Business Day after transmission (provided that Startle does not receive an email bounce back notification or any other notification that delivery of the email has failed).
-
-(e) The provisions of this clause shall not apply to the service of any proceedings or other documents in any legal action.
-
-19.3 **Severance.** If any provision or part-provision of a Contract is or becomes invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this clause shall not affect the validity and enforceability of the rest of the Contract.
-
-19.4 **Waiver.** A waiver of any right under a Contract or law is only effective if it is in writing and shall not be deemed to be a waiver of any subsequent breach or default. No failure or delay by a party in exercising any right or remedy under a Contract or by law shall constitute a waiver of that or any other right or remedy, nor prevent or restrict its further exercise of that or any other right or remedy. No single or partial exercise of such right or remedy shall prevent or restrict the further exercise of that or any other right or remedy.
-
-19.5 **No partnership or agency.** Nothing in any Contract is intended to, or shall be deemed to establish any partnership or joint venture between any of the parties, nor constitute either party the agent of another party for any purpose. Neither party shall have authority to act as agent for, or to bind, the other party in any way.
-
-19.6 **Third parties.** A person who is not a party to a Contract shall not have any rights to enforce its terms.
-
-19.7 **Variation.**
-
-(a) No variation of a Contract, including the introduction of any additional terms and conditions shall be effective unless it is agreed in writing and signed by Startle.
-
-(b) Subject to clause 19.7(c) below, Startle may unilaterally vary these Terms & Conditions.
-
-(c) A variation to these Terms & Conditions shall only apply to:
-
-(i) new Contracts entered into between the parties after the date on which the variation takes effect; and/or
-
-(ii) Contracts that enter a new Renewal Term after the date on which the variation takes effect.
-
-19.8 **Governing law and jurisdiction.** All Contracts any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be exclusively governed by and construed in accordance with the laws of Delaware. Each party irrevocably agrees that the state or federal courts located in New York, New York shall have exclusive jurisdiction to settle any dispute or claim arising out of or in connection with this Contract or its subject matter or formation (including non-contractual disputes or claims).
