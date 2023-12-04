@@ -1,4 +1,4 @@
-Published on 14 May 2021
+Published on 25 Mar 2022
 
 ## **Terms & Conditions for the supply of Services**
 
@@ -101,6 +101,8 @@ at which point and on which date a Contract shall come into existence (**Commenc
 2.8 Any samples, drawings, descriptive matter or advertising issued by Startle and any descriptions of the Equipment or illustrations or descriptions of the Services contained in Startle's catalogues or brochures or on Startle’s website or other electronic advertising are issued or published for the sole purpose of giving an approximate idea of the Services and/or the Equipment described in them. They shall not form part of any Contract or have any contractual force.
 
 2.9 These Terms & Conditions apply to every Contract to the exclusion of any other terms that the Customer seeks to impose or incorporate, or which are implied by trade, custom, practice or course of dealing.
+
+2.10 Purchase orders are for the Customer's internal accounting and procurement purposes only and are of no legal effect between Customer and Startle. The rights and obligations of the Customer and Startle are established solely by the Contract; all other terms are rejected.
 
 ### **3. Supply of Services**
 
