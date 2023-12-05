@@ -100,6 +100,8 @@ at which point and on which date a Contract shall come into existence (**Commenc
 
 2.9 These Terms & Conditions apply to every Contract to the exclusion of any other terms that the Customer seeks to impose or incorporate, or which are implied by trade, custom, practice or course of dealing.
 
+2.10 Purchase orders are for the Customer's internal accounting and procurement purposes only and are of no legal effect between Customer and Startle. The rights and obligations of the Customer and Startle are established solely by the Contract; all other terms are rejected.
+
 ### **3. Supply of Services**
 
 3.1 Startle shall provide the Services to the Customer in accordance with the applicable Order Form and these Terms & Conditions in all material respects.
